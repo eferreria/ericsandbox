@@ -1,7 +1,7 @@
 # project_name: "eric_sandbox"
 
 
-application: eric-sandbox2 {
+application: demo_eric_ext {
   label: "Hello User"
   url: "http://localhost:8080/bundle.js"
   # file: "bundle.js
