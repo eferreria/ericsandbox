@@ -1,8 +1,8 @@
 # project_name: "eric_sandbox"
 
 
-application: ericsandbox {
-  label: "ericsandbox"
+application: eric-sandbox2 {
+  label: "Hello User"
   url: "http://localhost:8080/bundle.js"
   # file: "bundle.js
   entitlements: {
